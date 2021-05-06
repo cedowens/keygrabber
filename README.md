@@ -9,6 +9,7 @@ Shell script to automate grabbing keys from a Linux host. Once you gain access t
 - bashrc
 - .bash_history
 - env
+- gcp and aws metadata service query
 
 ## Usage
 > chmod +x keygrabber.sh
