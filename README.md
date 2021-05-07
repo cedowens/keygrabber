@@ -1,6 +1,8 @@
 # keygrabber
 
-Shell script to automate grabbing keys from a Linux host. Once you gain access to a Linux host, run this script and it will grab the following:
+Automation for grabbing keys from a Linux host. You can use either the python2/python3 compatible script or the shell script included in this repo.
+
+Once you gain access to a Linux host, run this script and it will grab the following:
 
 - ~/.aws/ contents
 - ~/.ssh/ contents
@@ -13,5 +15,18 @@ Shell script to automate grabbing keys from a Linux host. Once you gain access t
 
 ## Usage
 > chmod +x keygrabber.sh
+
+OR
+
+> chmod +x keygrabber.py
+
+----------
+> python keygrabber.py
+
+OR
+
+> python3 keygrabber.py
+
+OR
 
 > ./keygrabber.sh
