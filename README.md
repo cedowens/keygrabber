@@ -1,6 +1,6 @@
 # keygrabber
 
-Automation for grabbing keys from a Linux host. You can use either the python2/python3 compatible script or the shell script included in this repo.
+Automation for grabbing keys from a Linux host. This can be helpful during red team exercises when you gain access to a Linux host and want to quickly see what other accesses that host can lead to. You can use either the python2/python3 compatible script or the shell script included in this repo.
 
 Once you gain access to a Linux host, upload this script on the host and run it and it will grab the following:
 
