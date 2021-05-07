@@ -8,8 +8,8 @@ Once you gain access to a Linux host, run this script and it will grab the follo
 - ~/.ssh/ contents
 - ~/.azure/ contents
 - ~/.config/gcloud/credentials.db
-- bashrc
-- .bash_history
+- ~/.bashrc
+- ~/.bash_history
 - env
 - gcp and aws metadata service query
 
