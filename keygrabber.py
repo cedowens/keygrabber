@@ -1,5 +1,4 @@
 import os
-import glob
 import sqlite3
 
 if os.path.exists(os.path.expanduser("~/.ssh")):
